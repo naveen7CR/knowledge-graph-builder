@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+git rm -r --cached node_modules
+git add .gitignore
+git commit -m "fix: removed node_modules and added gitignore"
+git push
+git add
+
+npm install
+ls
+
+
+
+
