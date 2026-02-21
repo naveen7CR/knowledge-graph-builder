@@ -1,0 +1,10 @@
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  /* Turbopack configuration for Next.js 16 */
+  turbopack: {
+    // Empty config to enable Turbopack with defaults
+  },
+};
+
+export default nextConfig;
