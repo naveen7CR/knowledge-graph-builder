@@ -8,6 +8,13 @@ git add
 
 npm install
 ls
+venv/
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
 
 
 
